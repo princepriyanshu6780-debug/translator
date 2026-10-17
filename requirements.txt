@@ -1,0 +1,5 @@
+SpeechRecognition
+googletrans==4.0.0rc1
+pyaudio
+gTTS
+playsound==1.2.2
